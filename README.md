@@ -25,12 +25,12 @@ This portfolio contains previous works in parallel with computational and genera
    <img src="bottom.png" >
 </p>
 
-
-
 <!--![yastik](bottom.png)-->
 
 
-# Dillinger
+# Vertical Plotter
+---
+###Polargraph
 ## _The Last Markdown Editor, Ever_
 
 
