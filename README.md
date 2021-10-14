@@ -43,8 +43,9 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="33%" src="top.png">
 </p>
 
+<h3 align="center"> EXHIBITION | METU 2019 </h3>
 
-### Polargraph
+
 ## _The Last Markdown Editor, Ever_
 
 
