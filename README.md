@@ -31,7 +31,7 @@ This portfolio contains previous works in parallel with computational and genera
   </p>
   <p> <br>
 
-<h2 align="center"> <bold>Vertical Plotter</bold> "Polargraph" </h2>
+<h2 align="center"> Vertical Plotter"Polargraph" </h2>
 
 
 ### Polargraph
