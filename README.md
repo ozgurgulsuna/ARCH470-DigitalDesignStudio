@@ -4,7 +4,7 @@
   height: 150px;vertical-align:middle;margin:-40px 0px; object-fit:cover;"> </center>   -->
 <!--![yastik](top.png)-->
 <p align="center">
-   <img src="top.jpeg" >
+   <img src="top.png" >
 </p>
 <h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup><em>ARCH 470</em></sup> </h1>
 <!--<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>-->
@@ -21,8 +21,9 @@ This portfolio contains previous works in parallel with computational and genera
   
   
 <p align="center">
-   <img src="bottom.jpeg" >
+   <img src="bottom.png" >
 </p>
+
 <!--![yastik](bottom.png)-->
 
 
