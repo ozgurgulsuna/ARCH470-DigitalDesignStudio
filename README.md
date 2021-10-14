@@ -4,11 +4,10 @@
   height: 150px;vertical-align:middle;margin:-40px 0px; object-fit:cover;"> </center>  
 
 
-<h3 align="center" style="font-size:40px "> Pre-Course Portfolio </h3>
-<h2 align="center" style="font-style: italic;font-size:20px">  ARCH 470 </h2>
+
+<h3 align="center" style="font-size:40px; "> Pre-Course Portfolio </h3>
+<h2 align="center" style="font-style: italic;font-size:20px;">  ARCH 470 </h2>
 <p align="center"
-
-
 
 
 This portfolio contains previous works in parallel with computational and generative design.
