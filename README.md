@@ -54,7 +54,9 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="22.4755%" src="polargraph-10.jpg">  
     <img width="25.1644%" src="polargraph-11.jpg">
 </p>
-
+<p> <br>
+  </p>
+  <p> <br>
 <h3 align="left"> EXHIBITION <br><sup> METU 2019 </sup></h3>
 
 <p align="left" width="100%">
@@ -63,10 +65,10 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 <p align="left" width="100%">
     <img width="65.7872%" src="/images/Sergi-2.jpg">
-    <img width="29.2128%" src="/images/Sergi-3.jpg">
+    <img width="29.2128%" src="/images/Sergi-6.jpg">
 </p>
 <p align="left" width="100%">
-    <img width="29.2128%" src="/images/Sergi-6.jpg">
+    <img width="29.2128%" src="/images/Sergi-3.jpg">
     <img width="65.7872%" src="/images/Sergi-4.jpg">
 </p>
 
