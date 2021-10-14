@@ -59,6 +59,9 @@ This portfolio contains previous works in parallel with computational and genera
 
 <p> <br> </p>
 <h3 align="left"> EXHIBITION <br><sup> METU 2019 </sup></h3>
+<p  align="justify"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nowadays, technology's interference in our lives is increasing, which disturbs the definitions we got used to. As an example, the algorithms which compete with each other to achieve the perfect photographs, unintentionally change the limits of the “perfect” photo definition.
+  </p>
 
 <p align="left" width="100%">
     <img width="48%" src="/images/sergi-0.jpg">
