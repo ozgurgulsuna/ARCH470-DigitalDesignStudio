@@ -1,6 +1,7 @@
-<!-- [![N|Solid](https://raw.githubusercontent.com/ozgurgulsuna/ARCH470-DigitalDesignStudio/main/top.png?token=AJH7N4Z74UZBD7UN36G274TBNAFPK)](https://nodesource.com/products/nsolid)-->
+<!-- [![N|Solid](
+<img src="top.png)](https://nodesource.com/products/nsolid)-->
 
-<img src="https://raw.githubusercontent.com/ozgurgulsuna/ARCH470-DigitalDesignStudio/main/top.png?token=AJH7N4Z74UZBD7UN36G274TBNAFPK" style="vertical-align:middle;margin:-40px 0px"> </center>  
+<img src="top.png" style="vertical-align:middle;margin:-40px 0px"> </center>  
 
 
 <h3 align="center" style="font-size:40px "> Pre-Course Portfolio </h3>
@@ -15,7 +16,8 @@ This portfolio contains previous works in parallel with computational and genera
 
 </p>
 
-[![N|Solid](https://raw.githubusercontent.com/ozgurgulsuna/ARCH470-DigitalDesignStudio/main/top.png?token=AJH7N4Z74UZBD7UN36G274TBNAFPK)](https://nodesource.com/products/nsolid)
+[![N|Solid](
+<img src="top.png)](https://nodesource.com/products/nsolid)
 
 
 # Dillinger
