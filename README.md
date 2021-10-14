@@ -5,7 +5,7 @@
 
 
 
-<h align="center" style="font-size:40px; "> Pre-Course Portfolio </h>
+<h4 align="center" style="font-size:40px; "> Pre-Course Portfolio </h4>
 <h2 align="center" style="font-style: italic;font-size:20px;">  ARCH 470 </h2>
 <p align="center"
 
