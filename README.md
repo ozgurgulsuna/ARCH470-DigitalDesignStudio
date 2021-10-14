@@ -32,6 +32,7 @@ This portfolio contains previous works in parallel with computational and genera
   <p> <br>
 
 <h2 align="center"> Vertical Plotter "Polargraph" </h2>
+This is a simple device, that draws pictures using a normal pen, some stepper motors and a belt. It is slow and noisy, but its enough to get the job done. It is called polargraph because it uses dual-polar coordinates system internally, rather than regular cartesian system we tend to use in 3d printers and plotters. This version is designed and built by me, but the idea of vertical plotter (HEKTOR) goes all the way back to 2002. Hektor is a portable spray paint output device for computers. It was created in collaboration with engineer Uli Franke for Jürg Lehni's diploma project at ECAL (École cantonale d'art de Lausanne).
 
 
 ### Polargraph
