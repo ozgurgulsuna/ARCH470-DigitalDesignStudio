@@ -43,7 +43,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="33%" src="top.png">
 </p>
 
-<h3 align="center"> EXHIBITION | METU 2019 </h3>
+<h3 align="left"> EXHIBITION | METU 2019 </h3>
 
 
 ## _The Last Markdown Editor, Ever_
