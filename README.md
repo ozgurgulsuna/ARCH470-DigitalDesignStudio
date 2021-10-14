@@ -6,10 +6,11 @@
 <p align="center">
    <img src="top.png" >
 </p>
-<p align="center">
-# Pre-course Portfolio
-### *ARCH*470
-</p>
+<h1 align="center">
+Pre-course Portfolio
+</h1><br><h1 align="center">
+  <strong>ARCH</strong>470
+</h1>
 <h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup> ARCH470 </sup></h1>
 <!--<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>-->
 <p align="center"
