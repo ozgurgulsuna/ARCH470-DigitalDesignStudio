@@ -38,9 +38,9 @@ This portfolio contains previous works in parallel with computational and genera
 
 
 <p align="center" width="100%">
-    <img width="29%" src="polargraph-1.jpg">
-    <img width="48%" src="polargraph-2.png">
-    <img width="22%" src="polargraph-3.jpg">
+    <img width="31%" src="polargraph-1.jpg">
+    <img width="40%" src="polargraph-2.png">
+    <img width="28%" src="polargraph-3.jpg">
 </p>
 <p align="center" width="100%">
     <img width="24%" src="polargraph-4.png">
