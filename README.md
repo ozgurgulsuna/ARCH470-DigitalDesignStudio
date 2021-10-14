@@ -31,8 +31,7 @@ This portfolio contains previous works in parallel with computational and genera
   </p>
   <p> <br>
 
-# Vertical Plotter
----
+<h2> Vertical Plotter</h2>
 ### Polargraph
 ## _The Last Markdown Editor, Ever_
 
