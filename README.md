@@ -43,7 +43,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="33%" src="top.png">
 </p>
 
-<h3 align="left"> EXHIBITION <h6><sup> METU 2019 </sup></h6></h3>
+<h3 align="left"> EXHIBITION <br><sup> METU 2019 </sup></h3>
 
 <p align="center" width="100%">
     <img width="33%" src="top.png">
