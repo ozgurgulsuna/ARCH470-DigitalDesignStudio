@@ -2,9 +2,10 @@
 
 <!--<img src="top.png" style=" width: 8000px;
   height: 150px;vertical-align:middle;margin:-40px 0px; object-fit:cover;"> </center>   -->
-![yastik](top.png)
-
-
+<!--![yastik](top.png)-->
+<p align="center">
+   <img src="top.jpeg" >
+</p>
 <h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup><em>ARCH 470</em></sup> </h1>
 <!--<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>-->
 <p align="center"
@@ -19,8 +20,10 @@ This portfolio contains previous works in parallel with computational and genera
   height:80px;vertical-align:middle;margin:0px 0px; object-fit:cover;"> </center>  -->
   
   
-
-![yastik](bottom.png)
+<p align="center">
+   <img src="bottom.jpeg" >
+</p>
+<!--![yastik](bottom.png)-->
 
 
 # Dillinger
