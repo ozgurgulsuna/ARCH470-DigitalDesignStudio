@@ -65,10 +65,12 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 <p align="left" width="100%">
     <img width="65.7872%" src="/images/Sergi-2.jpg">
+  &nbsp;&nbsp;
     <img width="29.2128%" src="/images/Sergi-6.jpg">
 </p>
 <p align="left" width="100%">
     <img width="29.2128%" src="/images/Sergi-3.jpg">
+  &nbsp;&nbsp;
     <img width="65.7872%" src="/images/Sergi-4.jpg">
 </p>
 
