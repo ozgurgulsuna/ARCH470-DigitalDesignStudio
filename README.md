@@ -5,8 +5,8 @@
 
 
 
-<h1 align="center" style="font-size:30px; "> Pre-Course Portfolio<br><sup>ARCH 470</sup> </h1>
-<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>
+<h1 align="center" style=" border-bottom: none "> Pre-Course Portfolio<br><sup>ARCH 470</sup> </h1>
+<!--<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>-->
 <p align="center"
 
 
