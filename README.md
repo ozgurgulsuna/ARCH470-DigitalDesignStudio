@@ -27,6 +27,10 @@ This portfolio contains previous works in parallel with computational and genera
 
 <!--![yastik](bottom.png)-->
 
+&NewLine;
+&NewLine;
+
+
 
 # Vertical Plotter
 ---
