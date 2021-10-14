@@ -2,7 +2,7 @@
 
 <!--<img src="top.png" style=" width: 8000px;
   height: 150px;vertical-align:middle;margin:-40px 0px; object-fit:cover;"> </center>   -->
-[![deneme](top.png)]()
+![yastik](top.png)
 
 
 <h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup><em>ARCH 470</em></sup> </h1>
@@ -20,7 +20,7 @@ This portfolio contains previous works in parallel with computational and genera
   
   
 
-[![N|Solid](bottom.png)](https://nodesource.com/products/nsolid)
+![yastik](bottom.png)
 
 
 # Dillinger
