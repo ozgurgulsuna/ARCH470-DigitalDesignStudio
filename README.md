@@ -30,9 +30,6 @@ This portfolio contains previous works in parallel with computational and genera
 <p> <br>
   </p>
   <p> <br>
-  </p>
-  <p> <br>
-  </p>
 
 # Vertical Plotter
 ---
