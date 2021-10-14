@@ -6,9 +6,15 @@
 <p align="center">
    <img src="top.png" >
 </p>
-<h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<sup><h4>ARCH470</h4></sup></h1>
+<h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<sup><h2>ARCH470</h2></sup></h1>
 <!--<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>-->
+<p align="center"
 
+
+This portfolio contains previous works in parallel with computational and generative design.
+
+
+</p>
 
 <!--<img src="bottom.jpeg" style=" width: 8000px;
   height:80px;vertical-align:middle;margin:0px 0px; object-fit:cover;"> </center>  -->
@@ -18,13 +24,7 @@
    <img src="bottom.png" >
 </p>
 
-<p align="center"
 
-
-This portfolio contains previous works in parallel with computational and generative design.
-
-
-</p>
 
 <!--![yastik](bottom.png)-->
 
