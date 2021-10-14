@@ -1,5 +1,4 @@
-<!-- [![N|Solid](
-<img src="top.png)](https://nodesource.com/products/nsolid)-->
+<!-- [![N|Solid](<img src="top.png)](https://nodesource.com/products/nsolid)-->
 
 <img src="top.png" style="vertical-align:middle;margin:-40px 0px"> </center>  
 
@@ -16,8 +15,7 @@ This portfolio contains previous works in parallel with computational and genera
 
 </p>
 
-[![N|Solid](
-<img src="top.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](<img src="top.png")](https://nodesource.com/products/nsolid)
 
 
 # Dillinger
