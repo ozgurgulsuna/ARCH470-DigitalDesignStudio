@@ -49,10 +49,10 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="22.5678%" src="polargraph-7.jpg">
 </p>
 <p align="center" width="100%">
-    <img width="19.7281%" src="polargraph-8.png">
-    <img width="30.1198%" src="polargraph-9.jpg">
-    <img width="23.6562%" src="polargraph-10.jpg">  
-    <img width="22.4959%" src="polargraph-11.jpg">
+    <img width="18.9408%" src="polargraph-8.png">
+    <img width="28.9178%" src="polargraph-9.jpg">
+    <img width="22.7121%" src="polargraph-10.jpg">  
+    <img width="25.4293%" src="polargraph-11.jpg">
 </p>
 
 <h3 align="left"> EXHIBITION <br><sup> METU 2019 </sup></h3>
