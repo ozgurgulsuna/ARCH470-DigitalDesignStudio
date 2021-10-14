@@ -62,12 +62,12 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="48%" src="/images/Sergi-1.jpg">
 </p>
 <p align="left" width="100%">
-    <img width="48%" src="/images/Sergi-2.jpg">
-    <img width="48%" src="/images/Sergi-3.jpg">
+    <img width="65.7872%" src="/images/Sergi-2.jpg">
+    <img width="29.2128%" src="/images/Sergi-3.jpg">
 </p>
 <p align="left" width="100%">
-    <img width="48%" src="/images/Sergi-6.jpg">
-    <img width="48%" src="/images/Sergi-4.jpg">
+    <img width="29.2128%" src="/images/Sergi-6.jpg">
+    <img width="65.7872%" src="/images/Sergi-4.jpg">
 </p>
 
 
