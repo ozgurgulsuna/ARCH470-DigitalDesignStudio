@@ -58,9 +58,8 @@ This portfolio contains previous works in parallel with computational and genera
 <h3 align="left"> EXHIBITION <br><sup> METU 2019 </sup></h3>
 
 <p align="center" width="100%">
-    <img width="33%" src="top.png">
-    <img width="33%" src="top.png">
-    <img width="33%" src="top.png">
+    <img width="33%" src="/images/sergi-0.jpg">
+    <img width="33%" src="/images/Sergi-1.jpg">
 </p>
 
 
