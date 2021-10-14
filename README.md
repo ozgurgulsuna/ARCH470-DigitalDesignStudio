@@ -2,7 +2,7 @@
 
 <!--<img src="top.png" style=" width: 8000px;
   height: 150px;vertical-align:middle;margin:-40px 0px; object-fit:cover;"> </center>   -->
-[![N|Solid](top.png)](https://nodesource.com/products/nsolid)
+[![deneme](top.png)]()
 
 
 <h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup><em>ARCH 470</em></sup> </h1>
