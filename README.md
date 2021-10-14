@@ -6,7 +6,7 @@
 
 
 <h3 align="center" style="font-size:2em; "> Pre-Course Portfolio </h3>
- <font size="1" align="center"> This is my text number1</font> 
+ <font size="5" align="center"> This is my text number1</font> 
 <h1 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h1>
 <p align="center"
 
