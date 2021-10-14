@@ -20,7 +20,7 @@ This portfolio contains previous works in parallel with computational and genera
   
   
 
-[![N|Solid](bottom.jpeg)](https://nodesource.com/products/nsolid)
+[![N|Solid](top.png)](https://nodesource.com/products/nsolid)
 
 
 # Dillinger
