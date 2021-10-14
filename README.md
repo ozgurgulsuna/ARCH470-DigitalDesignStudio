@@ -16,11 +16,11 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 <img src="bottom.jpeg" style=" width: 8000px;
-  height:150px;vertical-align:middle;margin:0px 0px; object-fit:cover;"> </center>  
+  height:80px;vertical-align:middle;margin:0px 0px; object-fit:cover;"> </center>  
   
   
 
-[![N|Solid](https://raw.githubusercontent.com/ozgurgulsuna/ARCH470-DigitalDesignStudio/main/top.png?token=AJH7N4Z74UZBD7UN36G274TBNAFPK)](https://nodesource.com/products/nsolid)
+[![N|Solid](bottom.jpeg)](https://nodesource.com/products/nsolid)
 
 
 # Dillinger
