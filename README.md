@@ -52,7 +52,7 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 
-<h4 align="right"><sup></em> Middle East Technical University, Ankara<em> </sup></h4>
+<h3 align="right"><sup><em> Middle East Technical University, Ankara</em> </sup></h3>
 
 
 
