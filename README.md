@@ -16,7 +16,7 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 <img src="bottom.jpeg" style=" width: 8000px;
-  height:60px;vertical-align:middle;margin:0px 0px; object-fit:cover;"> </center>  
+  height:150px;vertical-align:middle;margin:0px 0px; object-fit:cover;"> </center>  
   
   
 
