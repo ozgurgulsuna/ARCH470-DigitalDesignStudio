@@ -6,7 +6,7 @@
 <p align="center">
    <img src="top.png" >
 </p>
-<h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup><strong> <h5>ARCH470</h5></strong></sup> </h1>
+<strong><h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup><strong> <h5>ARCH470</h5></strong></sup> </h1></strong>
 <!--<h3 align="center" style="font-style: italic;font-size:2em;">  ARCH 470 </h3>-->
 <p align="center"
 
