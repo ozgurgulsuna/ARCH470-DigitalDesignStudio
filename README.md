@@ -149,21 +149,21 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 <p align="center" width="100%">
-    <img width="23.1664%" src="/images/unlisted-1.png">
-    <img width="71.8336%" src="/images/unlisted-2.jpg">
+    <img width="53.6161%" src="/images/unlisted-1.jpg">
+    <img width="15.3299%" src="/images/unlisted-2.jpg">
+    <img width="26.0541%" src="/images/unlisted-3.png">
 </p>
 <p align="center" width="100%">
-    <img width="23.1664%" src="/images/unlisted-3.jpg">
     <img width="71.8336%" src="/images/unlisted-4.jpg">
-</p>
-<p align="center" width="100%">
     <img width="23.1664%" src="/images/unlisted-5.jpg">
     <img width="71.8336%" src="/images/unlisted-6.jpg">
 </p>
 <p align="center" width="100%">
     <img width="23.1664%" src="/images/unlisted-7.jpg">
     <img width="71.8336%" src="/images/unlisted-8.jpg">
+    <img width="71.8336%" src="/images/unlisted-9.jpg">
 </p>
+
  
 ## _The Last Markdown Editor, Ever_
 
