@@ -80,8 +80,6 @@ This portfolio contains previous works in parallel with computational and genera
 
 <h3 align="right"><sup><em> Middle East Technical University, Ankara</em> </sup></h3>
 
-----
-
 <p><br><br></p>
 
 
@@ -108,9 +106,6 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 <p align="right">Door Stop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-
-----
 
 <p><br><br></p>
 
@@ -146,7 +141,29 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="21.8403%" src="/images/g-6.jpg">
 </p>
 
-<h3 align="right"><sup><em><a  href="http://aft.metu.edu.tr/portfolio.php?id=ozgur">Rest of the exhibiton can be visited here</a></em> </sup></h3>
+<h3 align="right"><sup><em><a  href="http://aft.metu.edu.tr/portfolio.php?id=ozgur">Exhibiton can be visited here</a></em> </sup></h3>
+
+<h2 align="center"> Unlisted</h2>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizing the geometry for a specific goal using computational tools is a technique that results in unforeseen outputs. Finite element method, which is generally applied in order to solve this problem generates organic models. This resembles the evolutionary optimization of the nature itself, thus generated models have similarities with bones and plants. I used this technique in two mini projects, first one is a shelf bracket like design for my desk support and second one is a door stop.
+</p>
+
+<p align="center" width="100%">
+    <img width="23.1664%" src="/images/unlisted-1.png">
+    <img width="71.8336%" src="/images/unlisted-2.jpg">
+</p>
+<p align="center" width="100%">
+    <img width="23.1664%" src="/images/unlisted-3.jpg">
+    <img width="71.8336%" src="/images/unlisted-4.jpg">
+</p>
+<p align="center" width="100%">
+    <img width="23.1664%" src="/images/unlisted-5.jpg">
+    <img width="71.8336%" src="/images/unlisted-6.jpg">
+</p>
+<p align="center" width="100%">
+    <img width="23.1664%" src="/images/unlisted-7.jpg">
+    <img width="71.8336%" src="/images/unlisted-8.jpg">
+</p>
  
 ## _The Last Markdown Editor, Ever_
 
