@@ -54,8 +54,6 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="22.4755%" src="/images/polargraph-10.jpg">  
     <img width="25.1644%" src="/images/polargraph-11.jpg">
 </p>
-<h2> &nbsp;</h2>
-<br/>
 
 <h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
 
@@ -81,8 +79,9 @@ This portfolio contains previous works in parallel with computational and genera
 
 <h3 align="right"><sup><em> Middle East Technical University, Ankara</em> </sup></h3>
 
+----
 
-<p> <br></p>
+<p><br></p>
 
 
 <h2 align="center"> Topology Optimization</h2>
@@ -108,6 +107,11 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 <p align="right">Door Stop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+----
+
+<p><br></p>
 
 <h2 align="center"> PHOTOGRAPHY<br><sup>Alternative Processes</sup></h2>
 <p align="justify">
