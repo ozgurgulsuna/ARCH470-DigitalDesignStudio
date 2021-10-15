@@ -133,6 +133,21 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 <h3 align="right"><sup><em>For more information, please contact</em> </sup></h3>
+
+<h3 align="center">GumBichromate<br></h3>
+
+<p align="center" width="100%">
+    <img width="30.3867%" src="/images/g-1.jpg">
+    <img width="64.6133%" src="/images/g-2.jpg">
+    <img width="30.3867%" src="/images/g-3.jpg">
+</p>
+<p align="center" width="100%">
+    <img width="47%" src="/images/g-4.jpg">
+    <img width="47%" src="/images/g-5.jpg">
+    <img width="30.3867%" src="/images/g-6.jpg">
+</p>
+
+<h3 align="right"><sup><em>For more information, please contact</em> </sup></h3>
  
 ## _The Last Markdown Editor, Ever_
 
