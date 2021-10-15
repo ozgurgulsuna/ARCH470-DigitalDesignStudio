@@ -134,7 +134,7 @@ This portfolio contains previous works in parallel with computational and genera
 
 <h3 align="right"><sup><em>For more information, please contact</em> </sup></h3>
 
-<h3 align="center">GumBichromate<br></h3>
+<h3 align="center">GumBichromate<br><sup>Online Exhibition, 2020</sup></h3>
 
 <p align="center" width="100%">
     <img width="23.1664%" src="/images/g-1.jpg">
@@ -146,7 +146,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="21.8403%" src="/images/g-6.jpg">
 </p>
 
-<h3 align="right"><sup><em>For more information, please contact</em> </sup></h3>
+<h3 align="right" href="http://aft.metu.edu.tr/portfolio.php?id=ozgur"><sup><em>Rest of the exhibiton can be visited here</em> </sup></h3>
  
 ## _The Last Markdown Editor, Ever_
 
