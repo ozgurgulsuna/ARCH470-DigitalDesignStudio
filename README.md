@@ -122,7 +122,7 @@ This portfolio contains previous works in parallel with computational and genera
 <h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
 
 <p align="center" width="100%">
-    <img width="65.7872%" src="/images/k-1.jpg">
+    <img width="65.7872%" src="/images/k-1.png">
     &nbsp;
     <img width="29.2128%" src="/images/k-2.jpg">
 </p>
