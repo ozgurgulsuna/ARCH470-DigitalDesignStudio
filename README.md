@@ -132,7 +132,7 @@ This portfolio contains previous works in parallel with computational and genera
 <h3 align="center">GumBichromate<br><sup>Online Exhibition, 2020</sup></h3>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gum bichromate is a photographic printing process. The image is rendered on any fibrous material from the negatives more than once. This multi-layer process, which is essential for color prints. I have been exploring the procedure for a couple of years now, and it yielded these results. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gum bichromate is a photographic printing process. The image is rendered on any fibrous material from the negatives more than once. This is a  multi-layer process, which is essential for color prints. I have been exploring the procedure for a couple of years now, and it yielded these results. 
   </p>
 
 
