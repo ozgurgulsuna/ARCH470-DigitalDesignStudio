@@ -146,7 +146,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="21.8403%" src="/images/g-6.jpg">
 </p>
 
-<h3 align="right" href="http://aft.metu.edu.tr/portfolio.php?id=ozgur"><sup><em>Rest of the exhibiton can be visited here</em> </sup></h3>
+<h3 align="right"><sup><em><a  href="http://aft.metu.edu.tr/portfolio.php?id=ozgur">Rest of the exhibiton can be visited here</a></em> </sup></h3>
  
 ## _The Last Markdown Editor, Ever_
 
