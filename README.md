@@ -90,7 +90,7 @@ This portfolio contains previous works in parallel with computational and genera
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizing the geometry for a specific goal using computational tools is a technique that results in unforeseen outputs. Finite element method, which is generally applied in order to solve this problem generates organic models. This resembles the evolutionary optimization of the nature itself, thus generated models have similarities with bones and plants. I used this technique in two mini projects, first one is a shelf bracket like design for my desk support and second one is a door stop.
 </p>
 
-Shelf Bracket
+
 
 <p align="center" width="100%">
     <img width="30.4997%" src="/images/topo-1.jpg">
@@ -98,7 +98,8 @@ Shelf Bracket
     <img width="32.2502%" src="/images/topo-3.jpg">
 </p>
 
-Door Stop
+<h5 align="right">Shelf Bracket&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+
 
 <p align="center" width="100%">
     <img width="47%" src="/images/topo-4.jpg">
@@ -106,6 +107,7 @@ Door Stop
     <img width="47%" src="/images/topo-5.jpg">
 </p>
 
+<h5 align="right">Door Stop&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 
 
  
