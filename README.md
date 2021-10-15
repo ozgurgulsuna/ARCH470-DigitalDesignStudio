@@ -55,12 +55,12 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="25.1644%" src="polargraph-11.jpg">
 </p>
 
-----
+<br/>
 
 <h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
 
 <p  align="justify"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nowadays, technology's interference in our lives is increasing, which disturbs the definitions we got used to. As an example, the algorithms which compete with each other to achieve the perfect photographs, unintentionally change the limits of the “perfect” photo definition.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nowadays, technology's interference in our lives is increasing, which disturbs the definitions we got used to. As an example, the algorithms which compete with each other to achieve the perfect photographs, unintentionally change the limits of the “perfect” photo definition...
   </p>
 
 <p align="left" width="100%">
@@ -69,18 +69,17 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 <p align="left" width="100%">
     <img width="65.7872%" src="/images/Sergi-2.jpg">
-  &nbsp;
+    &nbsp;
     <img width="29.2128%" src="/images/Sergi-6.jpg">
 </p>
 <p align="left" width="100%">
     <img width="29.2128%" src="/images/Sergi-3.jpg">
-  &nbsp;
+    &nbsp;
     <img width="65.7872%" src="/images/Sergi-4.jpg">
 </p>
 
 
 <h3 align="right"><sup><em> Middle East Technical University, Ankara</em> </sup></h3>
-
 
 
 <p> <br>
@@ -89,8 +88,25 @@ This portfolio contains previous works in parallel with computational and genera
 
 <h2 align="center"> Topology Optimization</h2>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a simple device, that draws pictures using a normal pen, some stepper motors and a belt. It is slow and noisy, but its enough to get the job done. It is called polargraph because it uses dual-polar coordinates system internally, rather than regular cartesian system we tend to use in 3d printers and plotters. This version is designed and built by me, but the idea of vertical plotter (HEKTOR) goes all the way back to 2002. Hektor is a portable spray paint output device for computers. It was created in collaboration with engineer Uli Franke for Jürg Lehni's diploma project at ECAL (École cantonale d'art de Lausanne).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizing the geometry for a specific goal using computational tools is a technique that results in unforeseen outputs. Finite element method, which is generally applied in order to solve this problem generates organic models. This resembles the evolutionary optimization of the nature itself, thus generated models have similarities with bones and plants. I used this technique in two mini projects, first one is a shelf bracket like design for my desk support and second one is a door stop.
 </p>
+
+Shelf Bracket
+
+<p align="left" width="100%">
+    <img width="38.5814%" src="/images/topo-1.jpg">
+    <img width="30.2432%" src="/images/topo-2.jpg">
+    <img width="26.1754%" src="/images/topo-3.jpg">
+</p>
+
+Door Stop
+
+<p align="left" width="100%">
+    <img width="48%" src="/images/topo-4.jpg">
+     &nbsp;
+    <img width="48%" src="/images/topo-5.jpg">
+</p>
+
 
 
  
