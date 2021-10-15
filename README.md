@@ -122,14 +122,14 @@ This portfolio contains previous works in parallel with computational and genera
 <h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
 
 <p align="center" width="100%">
-    <img width="65.7872%" src="/images/k-1.png">
+    <img width="30.3867%" src="/images/k-1.png">
     &nbsp;
-    <img width="29.2128%" src="/images/k-2.jpg">
+    <img width="64.6133%" src="/images/k-2.jpg">
 </p>
 <p align="center" width="100%">
-    <img width="29.2128%" src="/images/k-3.jpg">
+    <img width="47%" src="/images/k-3.jpg">
     &nbsp;
-    <img width="65.7872%" src="/images/k-4.jpg">
+    <img width="47%" src="/images/k-4.jpg">
 </p>
 
 <h3 align="right"><sup><em> Middle East Technical University, Ankara</em> </sup></h3>
