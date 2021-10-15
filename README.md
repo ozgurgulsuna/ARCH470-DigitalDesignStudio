@@ -139,7 +139,6 @@ This portfolio contains previous works in parallel with computational and genera
 <p align="center" width="100%">
     <img width="30.3867%" src="/images/g-1.jpg">
     <img width="64.6133%" src="/images/g-2.jpg">
-    <img width="30.3867%" src="/images/g-3.jpg">
 </p>
 <p align="center" width="100%">
     <img width="47%" src="/images/g-4.jpg">
