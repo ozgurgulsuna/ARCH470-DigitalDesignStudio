@@ -94,9 +94,9 @@ This portfolio contains previous works in parallel with computational and genera
 Shelf Bracket
 
 <p align="left" width="100%">
-    <img width="38.5814%" src="/images/topo-1.jpg">
-    <img width="30.2432%" src="/images/topo-2.jpg">
-    <img width="26.1754%" src="/images/topo-3.jpg">
+    <img width="30.4997%" src="/images/topo-1.jpg">
+    <img width="32.2502%" src="/images/topo-2.jpg">
+    <img width="32.2502%" src="/images/topo-3.jpg">
 </p>
 
 Door Stop
