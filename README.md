@@ -54,9 +54,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="22.4755%" src="/images/polargraph-10.jpg">  
     <img width="25.1644%" src="/images/polargraph-11.jpg">
 </p>
-
-----
-
+<h2> &nbsp;</h2>
 <br/>
 
 <h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
