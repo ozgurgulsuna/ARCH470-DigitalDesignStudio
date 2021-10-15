@@ -149,7 +149,7 @@ This portfolio contains previous works in parallel with computational and genera
 <h3 align="right"><sup><em><a  href="http://aft.metu.edu.tr/portfolio.php?id=ozgur">Exhibiton can be visited here</a></em> </sup></h3>
 
 <h2 align="center"> Unlisted</h2>
-<p align="justify">
+<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These works are the unfinished results of experiments done with various mediums, tools, lights, and thoughts.
 </p>
 
