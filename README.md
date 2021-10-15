@@ -37,18 +37,18 @@ This portfolio contains previous works in parallel with computational and genera
 </p>
 
 
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="38.5814%" src="/images/polargraph-1.jpg">
     <img width="30.2432%" src="/images/polargraph-2.png">
     <img width="26.1754%" src="/images/polargraph-3.jpg">
 </p>
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="34.2127%" src="/images/polargraph-4.png">
     <img width="17.3790%" src="/images/polargraph-5.jpg">
     <img width="21.0755%" src="/images/polargraph-6.jpg">
     <img width="22.3327%" src="/images/polargraph-7.jpg">
 </p>
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="18.7435%" src="/images/polargraph-8.png">
     <img width="28.6165%" src="/images/polargraph-9.jpg">
     <img width="22.4755%" src="/images/polargraph-10.jpg">  
@@ -63,16 +63,16 @@ This portfolio contains previous works in parallel with computational and genera
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nowadays, technology's interference in our lives is increasing, which disturbs the definitions we got used to. As an example, the algorithms which compete with each other to achieve the perfect photographs, unintentionally change the limits of the “perfect” photo definition...
   </p>
 
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="48%" src="/images/sergi-0.jpg">
     <img width="48%" src="/images/Sergi-1.jpg">
 </p>
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="65.7872%" src="/images/Sergi-2.jpg">
     &nbsp;
     <img width="29.2128%" src="/images/Sergi-6.jpg">
 </p>
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="29.2128%" src="/images/Sergi-3.jpg">
     &nbsp;
     <img width="65.7872%" src="/images/Sergi-4.jpg">
@@ -92,7 +92,7 @@ This portfolio contains previous works in parallel with computational and genera
 
 Shelf Bracket
 
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="30.4997%" src="/images/topo-1.jpg">
     <img width="32.2502%" src="/images/topo-2.jpg">
     <img width="32.2502%" src="/images/topo-3.jpg">
@@ -100,7 +100,7 @@ Shelf Bracket
 
 Door Stop
 
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="47%" src="/images/topo-4.jpg">
      &nbsp;
     <img width="47%" src="/images/topo-5.jpg">
