@@ -98,7 +98,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="32.2502%" src="/images/topo-3.jpg">
 </p>
 
-<h5 align="right">Shelf Bracket&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+<p align="right">Shelf Bracket&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 <p align="center" width="100%">
@@ -107,7 +107,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="47%" src="/images/topo-5.jpg">
 </p>
 
-<h5 align="right">Door Stop&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+<p align="right">Door Stop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
  
