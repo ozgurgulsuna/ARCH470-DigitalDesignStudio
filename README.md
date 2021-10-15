@@ -55,7 +55,7 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="25.1644%" src="/images/polargraph-11.jpg">
 </p>
 
-<h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
+<h3 align="left">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
 
 <p  align="justify"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nowadays, technology's interference in our lives is increasing, which disturbs the definitions we got used to. As an example, the algorithms which compete with each other to achieve the perfect photographs, unintentionally change the limits of the “perfect” photo definition...
