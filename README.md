@@ -4,7 +4,7 @@
   height: 150px;vertical-align:middle;margin:-40px 0px; object-fit:cover;"> </center>   -->
 <!--![yastik](top.png)-->
 <p align="center">
-   <img src="top.png" >
+   <img src="/images/top.png" >
 </p>
 
 <h1 align="center" style=" border-bottom: none ;">Pre-Course Portfolio<br><sup> ARCH470 </sup></h1>
@@ -22,7 +22,7 @@ This portfolio contains previous works in parallel with computational and genera
   
   
 <p align="center">
-   <img src="bottom.png" >
+   <img src="/images/bottom.png" >
 </p>
 
 <!--![yastik](bottom.png)-->
@@ -38,21 +38,21 @@ This portfolio contains previous works in parallel with computational and genera
 
 
 <p align="left" width="100%">
-    <img width="38.5814%" src="polargraph-1.jpg">
-    <img width="30.2432%" src="polargraph-2.png">
-    <img width="26.1754%" src="polargraph-3.jpg">
+    <img width="38.5814%" src="/images/polargraph-1.jpg">
+    <img width="30.2432%" src="/images/polargraph-2.png">
+    <img width="26.1754%" src="/images/polargraph-3.jpg">
 </p>
 <p align="left" width="100%">
-    <img width="34.2127%" src="polargraph-4.png">
-    <img width="17.3790%" src="polargraph-5.jpg">
-    <img width="21.0755%" src="polargraph-6.jpg">
-    <img width="22.3327%" src="polargraph-7.jpg">
+    <img width="34.2127%" src="/images/polargraph-4.png">
+    <img width="17.3790%" src="/images/polargraph-5.jpg">
+    <img width="21.0755%" src="/images/polargraph-6.jpg">
+    <img width="22.3327%" src="/images/polargraph-7.jpg">
 </p>
 <p align="left" width="100%">
-    <img width="18.7435%" src="polargraph-8.png">
-    <img width="28.6165%" src="polargraph-9.jpg">
-    <img width="22.4755%" src="polargraph-10.jpg">  
-    <img width="25.1644%" src="polargraph-11.jpg">
+    <img width="18.7435%" src="/images/polargraph-8.png">
+    <img width="28.6165%" src="/images/polargraph-9.jpg">
+    <img width="22.4755%" src="/images/polargraph-10.jpg">  
+    <img width="25.1644%" src="/images/polargraph-11.jpg">
 </p>
 
 <br/>
@@ -102,9 +102,9 @@ Shelf Bracket
 Door Stop
 
 <p align="left" width="100%">
-    <img width="48%" src="/images/topo-4.jpg">
+    <img width="47%" src="/images/topo-4.jpg">
      &nbsp;
-    <img width="48%" src="/images/topo-5.jpg">
+    <img width="47%" src="/images/topo-5.jpg">
 </p>
 
 
