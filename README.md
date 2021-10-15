@@ -118,6 +118,21 @@ This portfolio contains previous works in parallel with computational and genera
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizing the geometry for a specific goal using computational tools is a technique that results in unforeseen outputs. Finite element method, which is generally applied in order to solve this problem generates organic models. This resembles the evolutionary optimization of the nature itself, thus generated models have similarities with bones and plants. I used this technique in two mini projects, first one is a shelf bracket like design for my desk support and second one is a door stop.
 </p>
+
+<h3 align="center">The Myth of the Singular Moment<br><sup>Exhibition, METU 2019</sup></h3>
+
+<p align="center" width="100%">
+    <img width="65.7872%" src="/images/k-1.jpg">
+    &nbsp;
+    <img width="29.2128%" src="/images/k-2.jpg">
+</p>
+<p align="center" width="100%">
+    <img width="29.2128%" src="/images/k-3.jpg">
+    &nbsp;
+    <img width="65.7872%" src="/images/k-4.jpg">
+</p>
+
+<h3 align="right"><sup><em> Middle East Technical University, Ankara</em> </sup></h3>
  
 ## _The Last Markdown Editor, Ever_
 
