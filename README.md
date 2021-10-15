@@ -154,14 +154,14 @@ This portfolio contains previous works in parallel with computational and genera
     <img width="26.0541%" src="/images/unlisted-3.png">
 </p>
 <p align="center" width="100%">
-    <img width="71.8336%" src="/images/unlisted-4.jpg">
-    <img width="23.1664%" src="/images/unlisted-5.jpg">
-    <img width="71.8336%" src="/images/unlisted-6.jpg">
+    <img width="34.8076%" src="/images/unlisted-4.jpg">
+    <img width="34.8354%" src="/images/unlisted-5.jpg">
+    <img width="25.3570%" src="/images/unlisted-6.jpg">
 </p>
 <p align="center" width="100%">
-    <img width="23.1664%" src="/images/unlisted-7.jpg">
-    <img width="71.8336%" src="/images/unlisted-8.jpg">
-    <img width="71.8336%" src="/images/unlisted-9.jpg">
+    <img width="44.5276%" src="/images/unlisted-7.jpg">
+    <img width="28.8348%" src="/images/unlisted-8.jpg">
+    <img width="21.6376%" src="/images/unlisted-9.jpg">
 </p>
 
  
